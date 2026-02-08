@@ -1,0 +1,57 @@
+
+9	Putting something on a table
+14	Working at a table
+15	Holding a phone/camera
+16	Playing with a phone/camera
+17	Putting a phone/camera somewhere
+18	Taking a phone/camera from somewhere
+19	Talking on a phone/camera
+25	Closing a book
+26	Holding a book
+27	Opening a book
+28	Putting a book somewhere
+29	Smiling at a book
+30	Taking a book from somewhere
+31	Throwing a book somewhere
+32	Watching/Reading/Looking at a book
+39	Closing a box
+46	Closing a laptop
+47	Holding a laptop
+48	Opening a laptop
+49	Putting a laptop somewhere
+50	Taking a laptop from somewhere
+51	Watching a laptop or something on a laptop
+52	Working/Playing on a laptop
+59	Sitting in a chair
+60	Standing on a chair
+61	Holding some food
+62	Putting some food somewhere
+63	Taking food from somewhere
+79	Taking a pillow from somewhere
+83	Reaching for and grabbing a picture
+88	Watching/looking at a picture
+89	Closing a window
+90	Opening a window
+91	Washing a window
+92	Watching/Looking outside of a window
+104	Turning on a light
+105	Turning off a light
+106	Drinking from a cup/glass/bottle
+107	Holding a cup/glass/bottle of something
+108	Pouring something into a cup/glass/bottle
+109	Putting a cup/glass/bottle somewhere
+110	Taking a cup/glass/bottle from somewhere
+115	Someone is holding a paper/notebook
+116	Putting their paper/notebook somewhere
+117	Taking paper/notebook from somewhere
+131	Laughing at television
+132	Watching television
+144	Fixing their hair
+145	Working on paper/notebook
+149	Someone is laughing
+151	Someone is going from standing to sitting
+152	Someone is smiling
+153	Someone is sneezing
+154	Someone is standing up from somewhere
+155	Someone is undressing
+156	Someone is eating something

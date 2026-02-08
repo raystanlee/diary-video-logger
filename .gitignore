@@ -25,6 +25,7 @@ outputs/
 checkpoints/
 *.pt
 *.pth
+*.mp4
 
 # ======================
 # OS / Editor
@@ -32,3 +33,13 @@ checkpoints/
 .DS_Store
 .vscode/
 .idea/
+
+# Raw personal videos
+src/data/raw/*.mov
+src/data/raw/*.MOV
+outputs/*.mp4
+# Outputs / checkpoints
+outputs/
+checkpoints/
+*.pt
+*.pth
